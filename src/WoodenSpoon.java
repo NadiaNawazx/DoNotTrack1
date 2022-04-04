@@ -8,5 +8,7 @@ public class WoodenSpoon {
 
                 // amend
 
+        test
+
         }
     }
